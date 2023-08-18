@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../blog_front/repositories"
+		},
+		{
+			"path": "../../blog_front/services"
+		},
+		{
+			"path": "../../blog_front/types"
+		}
+	],
+	"settings": {}
+}
